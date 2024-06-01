@@ -16,6 +16,7 @@ Tech Stack: MERN Stack
 Other Tools & Frameworks: Figma, Apache Cordova, Git & GitHub, Material UI, React Native Paper
 Soft Skills: Problem Solving, Teamwork, Communication, Debugging, Leadership, Project Management.
 
+<!--
 🔧 Projects:
 
 1.Automatic Number Plate Recognition
@@ -50,7 +51,7 @@ Proficient in Cisco’s Packet Tracer for network design and optimization.
 🚀 Interested In:
 Full stack web & mobile development
 Data Science
-Let's connect and collaborate on exciting projects! Feel free to reach out to me through LinkedIn or via email at dineshbala472@gmail.com.
+-->
 
 <!--
 **DineshBala-A/DineshBala-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
