@@ -1,21 +1,21 @@
-Hi there, I'm Dinesh Bala 👋
-Enthusiastic Full Stack Developer | B.Tech Information Technology | Tech Innovator 
+Hi there, I'm Dinesh Bala 👋</br>
+Enthusiastic Full Stack Developer | B.Tech Information Technology | Tech Innovator </br>
 
-🔭 About Me:
- I'm an enthusiastic and results-oriented Full-Stack Developer with 2.5 years of experience building and deploying web and mobile applications. I'm skilled in the MERN stack (MongoDB, Express.js, React.js, Node.js) and cross-platform mobile development frameworks. I also have a proven ability to design and implement secure RESTful APIs with robust authentication and authorization.
+🔭 About Me:</br>
+ I'm an enthusiastic and results-oriented Full-Stack Developer with 2.5 years of experience building and deploying web and mobile applications. I'm skilled in the MERN stack (MongoDB, Express.js, React.js, Node.js) and cross-platform mobile development frameworks. I also have a proven ability to design and implement secure RESTful APIs with robust authentication and authorization.</br>
  
-🌐 Portfolio: dineshbala.netlify.app
-📫 Email: dineshbala472@gmail.com
-💼 LinkedIn: linkedin.com/in/dinesh-bala-211a2b22a
+🌐 Portfolio: dineshbala.netlify.app</br>
+📫 Email: dineshbala472@gmail.com</br>
+💼 LinkedIn: linkedin.com/in/dinesh-bala-211a2b22a</br>
 
-💻 Skills:
+💻 Skills:</br>
 
-Languages and Core Technologies: C, C++, Java, Python, JavaScript, Kotlin, DSA, DBMS, OOPS
-Front End: React.js, React Native, HTML, CSS
-Back End: Node.js, Express.js, Spring Boot, PHP, MongoDB, MySQL
-Tech Stack: MERN Stack
-Other Tools, Technologies & Frameworks: Figma, Apache Cordova, Git & GitHub, Material UI, React Native Paper
-Soft Skills: Problem Solving, Teamwork, Communication, Debugging, Leadership, Project Management.
+🔤 Languages and Core Technologies: C, C++, Java, Python, JavaScript, Kotlin, DSA, DBMS, OOPS</br>
+📺 Front End: React.js, React Native, HTML, CSS</br>
+🧵 Back End: Node.js, Express.js, Spring Boot, PHP, MongoDB, MySQL</br>
+🫙 Tech Stack: MERN Stack</br>
+⚔️ ⚔Other Tools, Technologies & Frameworks: Figma, Apache Cordova, Git & GitHub, Material UI, React Native Paper</br>
+⚡ Soft Skills: Problem Solving, Teamwork, Communication, Debugging, Leadership, Project Management.</br>
 
 <!--
 🔧 Projects:
