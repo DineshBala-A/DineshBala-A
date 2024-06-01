@@ -1,12 +1,74 @@
-Hi there, I'm Dinesh Bala 👋</br>
-Enthusiastic Full Stack Developer | B.Tech Information Technology | Tech Innovator </br>
+<h3 align="center"> Dinesh Bala </h3>
+<hr>
+<h4 align="center">Enthusiastic Full Stack Developer | B.Tech Information Technology | Tech Innovator</h4>
 
-🔭 About Me:</br>
+<h4 align="center">🔭 About Me:<h4>
  I'm an enthusiastic and results-oriented Full-Stack Developer with 2.5 years of experience building and deploying web and mobile applications. I'm skilled in the MERN stack (MongoDB, Express.js, React.js, Node.js) and cross-platform mobile development frameworks. I also have a proven ability to design and implement secure RESTful APIs with robust authentication and authorization.</br>
  
-🌐 Portfolio: dineshbala.netlify.app</br>
-📫 Email: dineshbala472@gmail.com</br>
-💼 LinkedIn: linkedin.com/in/dinesh-bala-211a2b22a</br>
+🌐 Portfolio:<a href="https://dineshbala.netlify.app" target="_blank"> dineshbala.netlify.app</a>
+📫 Email:<a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWslzBnTgqGMljqSdPFFTzjdXwfPJnpFShwlXvTggQzLHqbgdHFCsclkkmgjxrMrWWzqdHgnq" target="_blank"> dineshbala472@gmail.com</a>
+💼 LinkedIn:<a href="https://www.linkedin.com/in/dinesh-bala-211a2b22a/" target="_blank">linkedin.com/in/dinesh-bala-211a2b22a</a>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="margin-right: 10px;"/> 
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="margin-right: 10px;"/> 
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="margin-right: 10px;"/> 
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="margin-right: 10px;"/> 
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" style="margin-right: 10px;"/> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin-right: 10px;"/> 
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="margin-right: 10px;"/> 
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="margin-right: 10px;"/> 
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin-right: 10px;"/> 
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="margin-right: 10px;"/> 
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="margin-right: 10px;"/> 
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="margin-right: 10px;"/> 
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="margin-right: 10px;"/> 
+  </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" style="margin-right: 10px;"/> 
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="margin-right: 10px;"/> 
+  </a>
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" style="margin-right: 10px;"/> 
+  </a>
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" style="margin-right: 10px;"/> 
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" style="margin-right: 10px;"/> 
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="margin-right: 10px;"/> 
+  </a>
+</p>
 
 💻 Skills:</br>
 
@@ -16,7 +78,7 @@ Enthusiastic Full Stack Developer | B.Tech Information Technology | Tech Innovat
 🫙 Tech Stack: MERN Stack</br>
 ⚔️ ⚔Other Tools, Technologies & Frameworks: Figma, Apache Cordova, Git & GitHub, Material UI, React Native Paper</br>
 ⚡ Soft Skills: Problem Solving, Teamwork, Communication, Debugging, Leadership, Project Management.</br>
-
+ 
 <!--
 🔧 Projects:
 
