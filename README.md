@@ -1,8 +1,9 @@
 Hi there, I'm Dinesh Bala 👋
 Enthusiastic Full Stack Developer | B.Tech Information Technology | Tech Innovator
+
 🔭 About Me:
  I'm an enthusiastic and results-oriented Full-Stack Developer with 2.5 years of experience building and deploying web and mobile applications. I'm skilled in the MERN stack (MongoDB, Express.js, React.js, Node.js) and cross-platform mobile development frameworks. I also have a proven ability to design and implement secure RESTful APIs with robust authentication and authorization.
-
+ 
 🌐 Portfolio: dineshbala.netlify.app
 📫 Email: dineshbala472@gmail.com
 💼 LinkedIn: linkedin.com/in/dinesh-bala-211a2b22a
