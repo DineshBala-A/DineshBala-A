@@ -1,15 +1,15 @@
-<h3 align="center"> Dinesh Bala </h3>
+<h3 align="center"> Hi there, I'm Dinesh Bala 👋 </h3>
 <hr>
-<h4 align="center">Enthusiastic Full Stack Developer | B.Tech Information Technology | Tech Innovator</h4>
+<h3 align="center">Enthusiastic Full Stack Developer | B.Tech Information Technology | Tech Innovator</h3>
 
-<h4 align="center">🔭 About Me:<h4>
+<h4 >🔭 About Me:<h4>
  I'm an enthusiastic and results-oriented Full-Stack Developer with 2.5 years of experience building and deploying web and mobile applications. I'm skilled in the MERN stack (MongoDB, Express.js, React.js, Node.js) and cross-platform mobile development frameworks. I also have a proven ability to design and implement secure RESTful APIs with robust authentication and authorization.</br>
- 
-🌐 Portfolio:<a href="https://dineshbala.netlify.app" target="_blank"> dineshbala.netlify.app</a>
-📫 Email:<a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWslzBnTgqGMljqSdPFFTzjdXwfPJnpFShwlXvTggQzLHqbgdHFCsclkkmgjxrMrWWzqdHgnq" target="_blank"> dineshbala472@gmail.com</a>
-💼 LinkedIn:<a href="https://www.linkedin.com/in/dinesh-bala-211a2b22a/" target="_blank">linkedin.com/in/dinesh-bala-211a2b22a</a>
+ </br>
+🌐 Portfolio:<a href="https://dineshbala.netlify.app" target="_blank"> dineshbala.netlify.app</a></br></br>
+📫 Email:<a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWslzBnTgqGMljqSdPFFTzjdXwfPJnpFShwlXvTggQzLHqbgdHFCsclkkmgjxrMrWWzqdHgnq" target="_blank"> dineshbala472@gmail.com</a></br></br>
+💼 LinkedIn:<a href="https://www.linkedin.com/in/dinesh-bala-211a2b22a/" target="_blank">linkedin.com/in/dinesh-bala-211a2b22a</a></br></br>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3></br>
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="margin-right: 10px;"/> 
@@ -69,8 +69,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="margin-right: 10px;"/> 
   </a>
 </p>
-
-💻 Skills:</br>
+<br></br>
+💻 Skills:</br></br>
 
 🔤 Languages and Core Technologies: C, C++, Java, Python, JavaScript, Kotlin, DSA, DBMS, OOPS</br>
 📺 Front End: React.js, React Native, HTML, CSS</br>
