@@ -14,7 +14,7 @@ Languages and Core Technologies: C, C++, Java, Python, JavaScript, Kotlin, DSA, 
 Front End: React.js, React Native, HTML, CSS
 Back End: Node.js, Express.js, Spring Boot, PHP, MongoDB, MySQL
 Tech Stack: MERN Stack
-Other Tools & Frameworks: Figma, Apache Cordova, Git & GitHub, Material UI, React Native Paper
+Other Tools, Technologies & Frameworks: Figma, Apache Cordova, Git & GitHub, Material UI, React Native Paper
 Soft Skills: Problem Solving, Teamwork, Communication, Debugging, Leadership, Project Management.
 
 <!--
